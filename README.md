@@ -1,4 +1,6 @@
 # paintfracture
 Volume based paint fracture development
-[![Watch the video](https://i.sstatic.net/Vp2cE.png)](<div style="padding:61.36% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1052816322?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="paintFracture"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>)
+<video src="https://github.com/rayytsn9/ROBOTT/assets/79029536/62f541aa-aa8c-43f5-9ead-4b7a2e0d7c2a" width="300" />
+
+<div style="padding:61.36% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1052816322?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="paintFracture"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
